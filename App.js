@@ -87,7 +87,7 @@ export default function App() {
             </View>
           </View>
         )}
-        <Text style={styles.criador}>Feito por:Cristiano</Text>
+        <Text style={styles.criador}>Feito por: Cristiano</Text>
       </View>
     </View>
   );
